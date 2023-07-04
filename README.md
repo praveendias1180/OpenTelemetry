@@ -45,3 +45,5 @@ Use OTel Data in New Relic
 ![](k8s.png)
 
 ![](final-lab.png)
+
+![](k3s-helm-install.png)
