@@ -43,3 +43,5 @@ Use OTel Data in New Relic
 # Kubernetes Monitoring
 
 ![](k8s.png)
+
+![](final-lab.png)
