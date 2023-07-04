@@ -39,3 +39,7 @@ Use OTel Data in New Relic
 # Instrumenting Infrastructure
 
 ![](infra.png)
+
+# Kubernetes Monitoring
+
+![](k8s.png)
