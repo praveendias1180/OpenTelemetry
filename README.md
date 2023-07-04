@@ -60,3 +60,7 @@ https://px.dev/
 
 ![](monitor.png)
 
+# New Relic Verified Observability Practitioner
+
+![](observability-practitioner.png)
+
