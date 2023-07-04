@@ -25,3 +25,9 @@ The OpenTelemetry Protocol (OTLP) specification describes the encoding, transpor
 https://github.com/open-telemetry/opentelemetry-proto/blob/main/docs/specification.md
 
 ![](gRPC.png)
+
+$ New Relic and OTel
+
+Use OTel Data in New Relic
+
+![](otel-data.png)
