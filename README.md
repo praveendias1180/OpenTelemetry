@@ -35,3 +35,7 @@ Use OTel Data in New Relic
 # New Relic Infrastructure Monitoring
 
 ![](infra-monitoring.png)
+
+# Instrumenting Infrastructure
+
+![](infra.png)
