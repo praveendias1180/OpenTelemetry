@@ -31,3 +31,7 @@ $ New Relic and OTel
 Use OTel Data in New Relic
 
 ![](otel-data.png)
+
+# New Relic Infrastructure Monitoring
+
+![](infra-monitoring.png)
