@@ -47,3 +47,12 @@ Use OTel Data in New Relic
 ![](final-lab.png)
 
 ![](k3s-helm-install.png)
+
+# Pixie
+
+https://px.dev/
+
+## Auto-instrumented. Scriptable. Kubernetes native.
+
+![](px.png)
+
