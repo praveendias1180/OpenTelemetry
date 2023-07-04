@@ -9,3 +9,7 @@ https://opentelemetry.io/
 # OTel Agent and Event Type
 
 ![](event-types.png)
+
+# OTel Query
+
+![](otel-query.png)
